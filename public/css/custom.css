@@ -1,0 +1,57 @@
+/*Colour Overrides*/
+
+.btn-primary {
+    background-color: #fbe96e;
+    border-color: #fbe96e;
+    color: black;
+}
+
+.ibox-tools a.btn-primary {
+	color: black;
+}
+
+.ibox-tools a.btn-primary:hover {
+	color: white;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:hover, .btn-primary.active:focus {
+	background-color: black;
+    border-color: black;
+    color: #fbe96e;
+}
+
+.wizard > .steps .current a, .wizard > .steps .current a:hover, .wizard > .steps .current a:active {
+    background: #fbe96e;
+    color: black;
+}
+
+.wizard > .actions a, .wizard > .actions a:hover, .wizard > .actions a:active {
+    background: #fbe96e;
+    color: black;
+}
+
+.wizard > .steps .done a, .wizard > .steps .done a:hover, .wizard > .steps .done a:active {
+    background: #fbe96e;
+    color: black;
+}
+
+.social-avatar .media-body .title {
+    font-size: 14px;
+    display: block;
+    margin: 0;
+    font-weight: 600;
+}
+
+.timeline-action {
+    float: right;
+    margin-top: -25px;
+}
+.btn-add-note.btn-primary:focus, .btn-add-note.btn-primary:hover {
+    background-color: #fbe96e;
+    border-color: #fbe96e;
+    color: black;
+}
+.contact-box img {
+    margin: 0 auto;
+
+}
